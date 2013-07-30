@@ -3,9 +3,51 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-07-29</lastmod>
+<lastmod>2013-07-30</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-voorspelt-verdere-daling-van-omzet.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>HTC voorspelt verdere daling van omzet</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-voorspelt-verdere-daling-van-omzet-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>HTC voorspelt verdere daling van omzet</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-voorspelt-verdere-daling-van-omzet-2.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-07-30</news:publication_date>
+   <news:title>HTC voorspelt verdere daling van omzet</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.htcnieuws.com/htc-one-update-naar-422-tijdelijk-stopgezet-wordt-binnen-enkele-dagen-herva.html</loc>
