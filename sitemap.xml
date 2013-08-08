@@ -3,7 +3,7 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-08-07</lastmod>
+<lastmod>2013-08-08</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
 </url>
@@ -19,6 +19,62 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-07</news:publication_date>
    <news:title>Afbeelding blauwe uitvoering HTC One duikt op</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-komt-met-midrange-desire-500-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>HTC komt met midrange Desire 500-smartphone</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/blauwe-htc-one-op-komst.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Blauwe HTC One op komst</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-desire-500-aangekondigd-interessant-midrange-toestel-van-249-euro.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>HTC Desire 500 aangekondigd: interessant midrange-toestel van 249 euro</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/optimus-g-pro-meer-maar-ook-beter.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-06</news:publication_date>
+   <news:title>Optimus G Pro: meer, maar ook beter?</news:title>
 </news:news>
 </url>
 <url>
