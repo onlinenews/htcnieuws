@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/geslaagde-hanzecup-bij-htc.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>Geslaagde Hanzecup bij HTC</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/nieuwe-htc-smartphone-de-htc-desire-500.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
