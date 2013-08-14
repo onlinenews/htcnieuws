@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/eerste-versies-android-43-cyanogenmod-nightlies-uitgerold.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>Eerste versies Android 4.3 CyanogenMod Nightlies uitgerold</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-spot-met-robert-downey-jr-gelekt-helemaal-te-cool.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
