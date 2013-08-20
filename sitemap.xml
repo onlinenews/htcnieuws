@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-one-krijgt-eind-september-android-43-mee.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-20</news:publication_date>
+   <news:title>HTC One krijgt eind september Android 4.3 mee</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/goedkope-htc-zara-lekt-uit-met-dualcore-processor.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
