@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/gelekte-fotos-tonen-nieuwe-htc-budget-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-28</news:publication_date>
+   <news:title>Gelekte foto's tonen nieuwe HTC budget-smartphone</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-werkt-aan-eigen-smartphone-os-voor-chinese-markt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-28</news:publication_date>
+   <news:title>'HTC werkt aan eigen smartphone-OS voor Chinese markt'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/de-business-impact-van-wearable-computing.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
