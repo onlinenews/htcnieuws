@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-08-29</lastmod>
+<lastmod>2013-08-30</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-komt-met-fetch-accesoire-om-verloren-telefoons-tegen-te-gaan.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-30</news:publication_date>
+   <news:title>HTC komt met Fetch-accesoire om verloren telefoons tegen te gaan</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/galaxy-s5-krijgt-dankzij-metaal-een-luxere-uitstraling.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-30</news:publication_date>
+   <news:title>'Galaxy S5 krijgt dankzij metaal een luxere uitstraling'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.htcnieuws.com/htc-werkt-aan-eigen-besturingssysteem-voor-china.html</loc>
