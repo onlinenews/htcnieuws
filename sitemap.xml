@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htcers-aangehouden-voor-lekken-bedrijfsgeheimen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>HTC'ers aangehouden voor lekken bedrijfsgeheimen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-medewerkers-opgepakt-om-diefstal-technologie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>HTC-medewerkers opgepakt om diefstal technologie</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-komt-met-twee-accessoires-de-fetch-en-mini.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
