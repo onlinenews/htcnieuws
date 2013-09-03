@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-maakt-de-desire-601-bekend-voor-349-euro-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>HTC maakt de Desire 601 bekend voor 349 euro</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-maakt-de-desire-601-bekend-voor-349-euro.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-03</news:publication_date>
    <news:title>HTC kondigt Desire 601 officieel aan: middenklasser met 4G</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-desire-601-gentroduceerd-krachtige-betaalbare-4g-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>HTC Desire 601 geïntroduceerd, krachtige betaalbare 4g-smartphone</news:title>
 </news:news>
 </url>
 <url>
