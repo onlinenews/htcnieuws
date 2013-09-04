@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-desire-601-android-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-04</news:publication_date>
+   <news:title>HTC Desire 601 Android smartphone</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-introduceert-desire-601-en-desire-300.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
