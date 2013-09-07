@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/eerste-ervaring-met-de-htc-desire-500.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-07</news:publication_date>
+   <news:title>Eerste ervaring met de HTC Desire 500</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-desire-500-hands-on.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
