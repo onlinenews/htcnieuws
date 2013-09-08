@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/android-43-update-voor-htc-one-eind-september-beschikbaar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-08</news:publication_date>
+   <news:title>Android 4.3 update voor HTC One eind september beschikbaar</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-meldt-opnieuw-teleurstellende-verkoopresultaten.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
