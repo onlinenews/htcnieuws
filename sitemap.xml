@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/negatieve-kwartaalcijfers-op-komst-voor-htc.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-25</news:publication_date>
+   <news:title>'Negatieve kwartaalcijfers op komst voor HTC'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/productieproblemen-htc-one-mini-zorgt-voor-tekort-aan-toestellen.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
