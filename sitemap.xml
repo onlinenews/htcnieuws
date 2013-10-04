@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/verlies-htc-groter-dan-verwacht-2.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Verlies HTC groter dan verwacht</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-noteert-eerste-kwartaalverlies.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>HTC noteert eerste kwartaalverlies</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/verlies-htc-groter-dan-verwacht-1.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -22,6 +50,20 @@
 </news:news>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-verlies-eerste-ooit-sinds-beursgang.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>HTC verlies eerste ooit sinds beursgang</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/verlies-htc-groter-dan-verwacht.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +75,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-10-04</news:publication_date>
    <news:title>Verlies HTC groter dan verwacht</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/one-weet-miljoenenverlies-htc-niet-te-voorkomen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>One weet miljoenenverlies HTC niet te voorkomen</news:title>
 </news:news>
 </url>
 <url>
