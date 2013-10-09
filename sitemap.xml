@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-10-08</lastmod>
+<lastmod>2013-10-09</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/ook-htc-komt-met-toestel-met-vingerafdrukscanner.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-09</news:publication_date>
+   <news:title>Ook HTC komt met toestel met vingerafdrukscanner</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/eerste-screenshots-htc-sense-55-lekken-uit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-08</news:publication_date>
+   <news:title>'Eerste screenshots HTC Sense 5.5 lekken uit'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.htcnieuws.com/htc-verzendt-persuitnodigingen-voor-aankondiging-htc-one-max.html</loc>
