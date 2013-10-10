@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/eindelijk-een-krachtige-kleinere-android-telefoon.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-10</news:publication_date>
+   <news:title>Eindelijk een krachtige, kleinere Android-telefoon</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/samsung-werkt-aan-tablet-met-android-en-windows.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
