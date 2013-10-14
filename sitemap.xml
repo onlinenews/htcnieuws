@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-one-wordt-super-sized-met-de-htc-one-max.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-14</news:publication_date>
+   <news:title>HTC One wordt ‘super-sized’ met de HTC One max</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-one-max-officieel-phablet-met-vingerafdrukscanner.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-14</news:publication_date>
+   <news:title>HTC One Max officieel: phablet met vingerafdrukscanner</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-presenteert-grote-smartphone-one-max.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
