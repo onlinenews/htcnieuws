@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/amazon-overweegt-haar-smartphones-door-htc-te-laten-ontwikkelen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-16</news:publication_date>
+   <news:title>'Amazon overweegt haar smartphones door HTC te laten ontwikkelen'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-werkt-samen-met-amazon-aan-drie-nieuwe-smartphones.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-10-16</news:publication_date>
    <news:title>HTC werkt samen met Amazon aan drie nieuwe smartphones</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-stelt-grote-smartphone-one-max-voor.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-16</news:publication_date>
+   <news:title>HTC stelt grote smartphone One max voor</news:title>
 </news:news>
 </url>
 <url>
