@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-11-02</lastmod>
+<lastmod>2013-11-04</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/overheidt-stuurt-nl-alert-controlebericht-op-mobiel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-04</news:publication_date>
+   <news:title>Overheidt stuurt NL-Alert controlebericht op mobiel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/video-de-android-44-fotobewerkings-app-in-actie.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-04</news:publication_date>
+   <news:title>Video: de Android 4.4 fotobewerkings app in actie</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.htcnieuws.com/mediamagnaat-uit-hong-kong-neemt-aandeel-in-htc.html</loc>
