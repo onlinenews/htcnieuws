@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/zwaar-weer-voor-htc-houdt-aan-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-05</news:publication_date>
+   <news:title>Zwaar weer voor HTC houdt aan</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/android-44-vanaf-eind-januari-op-europese-htc-ones.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
