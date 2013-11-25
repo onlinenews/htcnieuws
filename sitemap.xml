@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.htcnieuws.com/htc-kondigt-goudkleurige-htc-one-aan.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>HTC kondigt goudkleurige HTC One aan</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-one-gpe-android-44-kitkat-is-weer-een-stukje-dichterbij.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>HTC One GPE: Android 4.4 KitKat is weer een stukje dichterbij</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.htcnieuws.com/htc-brengt-gouden-variant-van-de-one-uit-in-europa.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
