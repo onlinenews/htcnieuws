@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.htcnieuws.com/</loc>
-<lastmod>2013-11-27</lastmod>
+<lastmod>2013-11-28</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.htcnieuws.com/htc-one-dual-sim-unveiled-with-64gb-microsd-slot-available-to-pre-order-now.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>HTC Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-28</news:publication_date>
+   <news:title>HTC One dual SIM unveiled with 64GB microSD slot, available to pre-order now for £494.99 in the UK</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.htcnieuws.com/review-htc-one-max-is-meer-one-ook-echt-max.html</loc>
